@@ -4,9 +4,9 @@
 2. 설명: Selenium Library를 이용해 사용자의 검색 단어를 카카오 맵, 구글 맵, 네이버 맵에 검색 후 평점 및 리뷰 수 크롤링 후 합산하여 카카오 맵 api를 통해 음식점 추천
    1) 프로그램 실행시 15개의 ChromeDriver 인스턴스 생성 후 객체 풀(Object Pool)로 관리
    2) 카카오 맵에 해당 키워드 검색 후 람다 스트림을 이용해 평점 있는 곳 필터링
-   <img src="https://github.com/JasonTaeng/menu_project/assets/134661987/fd96e108-8ddd-450f-b2be-0c73f933004b" width="100%"></img>
+   <img src="https://github.com/JasonTaeng/menu_project/assets/134661987/1a9deed7-9ac6-4b38-bdc6-0a503ad31d4b" width="100%"></img>
    3)
-   4)
+
 
 4. 느낀점:
    - 완성도 높은 서비스 제작을 위한 Spring boot 공부 필요성 
